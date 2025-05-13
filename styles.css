@@ -145,5 +145,6 @@ button:hover {
 }
 
 p, h4 {
-  color: white
+  color: white;
+  line-height: 22px;
 }
